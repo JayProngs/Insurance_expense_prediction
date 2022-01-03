@@ -1,0 +1,4 @@
+insurance.xlx is dataset
+insurance_analysis.py is dataset analysis and feature recognition
+insurance_model_analysis.py is regression model analysis
+insurance_predict.py is prediction logic
